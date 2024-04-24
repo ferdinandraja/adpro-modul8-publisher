@@ -1,2 +1,2 @@
 ## Running RabbitMQ as message broker.
-<img src="image/ss1.png">
+<img src="img/ss1.png">
